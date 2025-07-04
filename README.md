@@ -1,5 +1,30 @@
-## Hi there 👋
+## Hi, I'm Fly_0 !
 
+---
+
+I'm currently working on [Azenor Group](https://azenor-group.netlify.app)
+Here is my portfolio : https://flyfolio.netlify.app
+
+**My Stats**
+![Fly072pp's Stats](https://github-readme-stats.vercel.app/api?username=Fly072pp&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
+
+### My favorite language :
+Javascript
+Python
+HTML/CSS
+
+### My favorites API's and frameworks :
+TKinter
+Discord.js
+Tailwind.css
+
+---
+
+## My projects
+
+**Eria**
+**Azenor Group**
+**Partn'Air**
 <!--
 **Fly072pp/Fly072pp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
