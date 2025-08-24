@@ -2,8 +2,8 @@
 
 ---
 
-I'm currently working on [Azenor Group](https://azenor-group.netlify.app)
-Here is my portfolio : https://flyfolio.netlify.app
+I'm currently working on [Azenor Group](https://azenor-group.fly0.fr)
+Here is my portfolio : https://fly0.fr
 
 **My Stats**
 ![Fly072pp's Stats](https://github-readme-stats.vercel.app/api?username=Fly072pp&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
